@@ -27,7 +27,7 @@ Foolbox Native: Fast adversarial attacks to benchmark the robustness of machine 
 using `EagerPy <https://github.com/jonasrauber/eagerpy>`_ instead of
 NumPy to achieve native performance on models
 developed in PyTorch, TensorFlow and JAX, all with one code base without code duplication.
-- 第二次修改
+- 第二次修改 2
 - **Native Performance**: Foolbox 3 is built on top of EagerPy and runs natively in PyTorch, TensorFlow, and JAX and comes with real batch support.
 - **State-of-the-art attacks**: Foolbox provides a large collection of state-of-the-art gradient-based and decision-based adversarial attacks.
 - **Type Checking**: Catch bugs before running your code thanks to extensive type annotations in Foolbox.
